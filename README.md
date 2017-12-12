@@ -11,4 +11,5 @@ The repo will contain
 
 The target audience are primairly EEng, but not limited to.
 
+Licence: Open source, GNU/GPL 3.0
 
